@@ -1,0 +1,23 @@
+/*
+* Sydney Kwiatkowski
+* October 11, 2018
+* SuperHero Table
+*/
+
+/* The universal selector */
+
+*{
+
+}
+
+/* Body attributes here */
+
+body {
+background:white;
+    color: black;
+}
+table, td, th { border: 1px solid blue; }
+table { border-collapse: collapse; }
+
+thead { background-color: pink; }
+tfoot { background-color: powderblue; }
