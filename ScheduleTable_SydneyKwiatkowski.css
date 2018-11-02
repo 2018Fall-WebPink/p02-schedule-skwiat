@@ -1,0 +1,23 @@
+/*
+* <!-- Sydney Kwiatkowski -->
+* <!-- October 23, 2018 -->
+* <!-- Project 02 - Schedule Table --> 
+*/
+
+/* The universal selector */
+
+*{
+
+}
+
+/* Body attributes here */
+
+body {
+background-color: peachpuff;
+           color: black;
+    }
+table, td, th { border: 1px solid black; }
+table { border-collapse: collapse; }
+
+thead { background-color: aliceblue; }
+tfoot { background-color: aliceblue; }
